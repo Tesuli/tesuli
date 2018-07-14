@@ -447,7 +447,7 @@ $(document).ready(function () {
             });
         });
         var monthDays = {
-            janurary: 31,
+            january: 31,
             february: 29,
             march: 31,
             april: 30,
