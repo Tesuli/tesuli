@@ -1,4 +1,4 @@
 Almost done.
 
-<b>Testing news section.</b>
+<i>Testing news section.</i>
 
