@@ -1,0 +1,12 @@
+To embed a link in your text insert <a href="linkgoeshere.com">Display text here!</a>
+Example:
+ Hello, my name is bob and you must <a href="getafreevirusnow.com">click here</a> or you will die!
+
+
+To embed an image in your text insert <img src="https://files.randomImageLocation.jpg">
+Example:
+ Take a look at this bird! <img src="https://files.allaboutbirds.net/wp-content/uploads/2015/06/prow-featured.jpg"> Isn't it neat?
+
+To make a piece of text bold, surround it in <b> and </b>
+Example:
+ This is <b>bold</b>, yay!
