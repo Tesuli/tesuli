@@ -565,6 +565,7 @@ a {
       position: absolute;
       opacity: 0;
       display: none;
+      overflow:auto;
       font-size: 2.5vh;
       background: #EFE28F; }
       #schedule #schedule-content #schedule-times #schedule-info-content .schedule-ffhd {
